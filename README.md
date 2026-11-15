@@ -9,4 +9,15 @@ Development happens at [sktelecom/bomlens](https://github.com/sktelecom/bomlens)
 - Live demo: https://sktelecom.github.io/bomlens/demo/
 - OWASP project page: https://owasp.org/www-project-bomlens/
 
+## Support
+
+- Bugs and unexpected behavior: [GitHub Issues](https://github.com/sktelecom/bomlens/issues)
+- Questions and feature ideas: [GitHub Discussions](https://github.com/sktelecom/bomlens/discussions)
+- Security vulnerabilities: report privately as described in the [security policy](https://github.com/sktelecom/bomlens/blob/main/SECURITY.md)
+- Contributing: [CONTRIBUTING.md](https://github.com/sktelecom/bomlens/blob/main/CONTRIBUTING.md)
+
+## Roadmap
+
+The directions are listed on the [project page](https://owasp.org/www-project-bomlens/) and in the [known limits](https://sktelecom.github.io/bomlens/concepts/limitations/). They are not commitments or dates.
+
 BomLens is licensed under the [Apache License 2.0](LICENSE).
